@@ -5,7 +5,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="max-w-5xl mx-auto py-24 px-6 flex flex-col md:flex-row gap-10 items-center"
+      className="max-w-6xl mx-auto py-24 px-6 flex flex-col md:flex-row gap-10 items-center"
     >
       <motion.img
         src="/kubiat-profile.png" 
@@ -37,12 +37,18 @@ export default function About() {
        
         </p>
      <p className="text-gray-400 mb-4">
-        I don’t just write code — I create software that improves workflows, delivers real impact, and scales
+        I don’t just write code —  I specialize in building modern web applications using React, Vue, 
+        Node.js, and Python. My work focuses on creating reliable systems, 
+        designing scalable APIs, and delivering responsive user interfaces 
+        that improve operational efficiency for organizations.I create software that improves workflows, delivers real impact, and scales
         across teams. My projects are production-ready, user-focused, and maintainable.
       
        </p>
       <p className="text-gray-400">
-        Whether it’s designing modern user interfaces, building backend APIs, or deploying to the cloud,
+        Throughout my career I have delivered more than 10 production 
+        applications and built systems used by over 100 internal users. 
+        I enjoy solving complex engineering problems, building scalable 
+        architecture, and collaborating with distributed engineering teams.Whether it’s designing modern user interfaces, building backend APIs, or deploying to the cloud,
         I bring reliability, speed, and a collaborative mindset to every project. Let’s build something
         meaningful together.
       </p>
